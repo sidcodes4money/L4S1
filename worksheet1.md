@@ -93,4 +93,3 @@ This is described in the **'Git Submissions'** resource [[here]](https://gitlab.
 - Add some text to the example.txt file
 - Push your changes so they are visible in you Gitlab project.
 
-
